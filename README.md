@@ -1,22 +1,20 @@
-# 🏔️ Optimized Wallpaper Collection
+# 🏔️ 4K Nord Wallpaper Collection
 
-A curated and optimized collection of high-quality wallpapers, primarily featuring the **Nord** color palette and various minimalist, tech, and nature themes.
+A curated and highly optimized collection of **4K (3840x2160)** wallpapers, adhering strictly to the **Nord** color palette.
 
 ## ✨ Features
 
-- **🚀 Performance Optimized:** The entire collection is now in **WebP** format for superior compression and fast loading.
-- **🖥️ 1080p Standardized:** All images are standardized to **1920x1080 (1080p)** or higher. Low-resolution images have been removed.
-- **🎨 Color Theme:** Deep focus on the [Nord](https://www.nordtheme.com/) color scheme.
-- **📦 Clean Repository:** Optimized for size and performance, making it easy to clone and use.
+- **🌟 4K AI Upscaled:** Every image has been processed with `realesrgan-x4plus` AI to achieve crisp **3840x2160** resolution.
+- **🚀 Ultra-Optimized:** Stored in **WebP** format (Quality 80), providing 4K visual fidelity at file sizes comparable to 1080p (avg. ~1MB).
+- **🎨 Nordic Aesthetics:** Pure [Nord](https://www.nordtheme.com/) color scheme focus.
+- **🔢 Clean Organization:** Standardized naming convention (`nord_001.webp` to `nord_289.webp`) for easy scripting and usage.
 
-## 🛠️ Optimization Details
+## 🛠️ Processing Pipeline
 
-The images in this repository have undergone the following processing:
-1. **Full WebP Conversion:** All images (PNG, JPG, etc.) have been converted to WebP with balanced quality (85).
-2. **Resolution Management:** 
-   - **Downscaling:** Extreme resolutions (4K, 5K, 8K) have been downscaled to 1920x1080.
-   - **Quality Control:** All images significantly below 1080p standards have been removed.
-3. **Format Efficiency:** Modern encoding ensures maximum quality with minimum disk footprint.
+The images in this repository were processed using [gowall](https://github.com/AaylaSecura/gowall):
+1. **AI Upscaling:** Original 1080p images were upscaled to **4K** using the `realesrgan-x4plus` model for superior sharpness and detail preservation.
+2. **Smart Compression:** Converted to WebP with `lossy` compression (Quality 80) to maximize space savings without visible artifacting.
+3. **Standardization:** Renamed sequentially to ensure a clean filesystem structure.
 
 ## 📥 Installation
 
@@ -24,6 +22,13 @@ The images in this repository have undergone the following processing:
 git clone https://github.com/dacrab/wallpapers.git
 cd wallpapers/nord
 ```
+
+## 🖼️ Usage
+
+Perfect for:
+- 4K / High-DPI Monitors
+- Linux Ricing (Hyprland, Sway, i3, etc.)
+- Clean desktop setups
 
 ---
 *Maintained with ❤️ by dacrab*
