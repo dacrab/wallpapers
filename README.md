@@ -6,7 +6,7 @@ A curated and optimized collection of wallpapers featuring **Nord** and **Catppu
 
 - **🌟 High Resolution:** All images at 1920x1080 or higher — low-res and portrait-oriented images removed.
 - **📍 Nord (541 images):** Deduplicated by content, WebP at Quality 90.
-- **📍 Catppuccin Mocha (330 images):** High-resolution collection.
+- **📍 Catppuccin Mocha (326 images):** High-resolution collection — low-res and portrait images removed.
 - **🚀 Optimized:** All images converted to **WebP** format (Quality 90) for efficient storage.
 - **🎨 Themes:**
   - [Nord](https://www.nordtheme.com/) — Clean, Arctic, and Minimalist.
