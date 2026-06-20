@@ -6,12 +6,12 @@ A curated and optimized collection of wallpapers featuring **Nord** and **Catppu
 
 - **🌟 High Resolution:** All images at 1920x1080 or higher — low-res and portrait-oriented images removed.
 - **📍 Nord (541 images):** Deduplicated by content, WebP at Quality 90.
-- **📍 Catppuccin Mocha (326 images):** High-resolution collection — low-res and portrait images removed.
+- **📍 Catppuccin Mocha (883 images):** High-resolution collection — low-res and portrait images removed.
 - **🚀 Optimized:** All images converted to **WebP** format (Quality 90) for efficient storage.
 - **🎨 Themes:**
   - [Nord](https://www.nordtheme.com/) — Clean, Arctic, and Minimalist.
   - [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) — Soothing, Pastel high-contrast.
-- **📦 Efficient Storage:** ~1.2MB average per image.
+- **📦 Efficient Storage:** ~750KB average per image.
 - **🔢 Standardized Naming:** Descriptive kebab-case naming throughout.
 
 ## 🛠️ Processing Pipeline
