@@ -1,33 +1,20 @@
-# 🏔️ Optimized Wallpaper Collection
+# Optimized Wallpaper Collection
 
-A curated and optimized collection of wallpapers featuring **Nord** and **Catppuccin Mocha** color schemes.
+A curated collection of wallpapers in **Nord** and **Catppuccin Mocha** themes, optimized in WebP format.
 
-## ✨ Features
+## Themes
 
-- **🌟 High Resolution:** All images at 1920x1080 or higher — low-res and portrait-oriented images removed.
-- **📍 Nord (541 images):** Deduplicated by content, WebP at Quality 90.
-- **📍 Catppuccin Mocha (556 images):** Raw source collection — no AI upscaling, no gowall processing.
-- **🚀 Optimized:** All images converted to **WebP** format (Quality 90) for efficient storage.
-- **🎨 Themes:**
-  - [Nord](https://www.nordtheme.com/) — Clean, Arctic, and Minimalist.
-  - [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) — Soothing, Pastel high-contrast.
-- **📦 Efficient Storage:** ~850KB average per image.
-- **🔢 Standardized Naming:** Descriptive kebab-case naming throughout.
+- [Nord](https://www.nordtheme.com/) — 541 images, deduplicated, WebP at Quality 90
+- [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) — 556 images, WebP at Quality 90
 
-## 🛠️ Processing Pipeline
+All images are 1920x1080 or higher. Average size ~850KB per image.
 
-- **Nord collection:** Sourced and consolidated from multiple nord-themed wallpaper repositories. Duplicate images were removed by content hash. Low-resolution (<1920x1080) and portrait-oriented images were culled.
-- **Catppuccin Mocha collection:** Sourced and consolidated from multiple catppuccin-themed wallpaper repositories. No AI upscaling — low-resolution (<1920x1080) and portrait-oriented images were culled instead.
-
-## 📥 Installation
+## Install
 
 ```bash
 git clone https://github.com/dacrab/wallpapers.git
 ```
 
-## 🖼️ Usage
+## Usage
 
 Designed for high-resolution displays and Linux ricing (Hyprland, Sway, KDE, etc.).
-
----
-*Maintained with ❤️ by dacrab*
